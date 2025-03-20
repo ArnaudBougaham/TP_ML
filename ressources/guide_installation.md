@@ -12,7 +12,7 @@
 2. Se connecter avec votre compte Google
 3. Créer une copie dans votre Drive
 
-### 2. Configuration GPU (Pour TP4)
+### 2. Configuration GPU (Pour TP3 et TP4)
 1. Menu "Runtime" → "Change runtime type"
 2. Sélectionner "GPU" dans "Hardware accelerator"
 3. Cliquer sur "Save"
@@ -22,7 +22,7 @@
 ### Prérequis système
 - Python 3.8 ou supérieur
 - Git
-- CUDA Toolkit (pour GPU) - Recommandé pour TP4
+- CUDA Toolkit (pour GPU) - Recommandé pour TP3 et TP4
 
 ### Installation de l'environnement
 
@@ -126,7 +126,7 @@ Pour toute question ou problème d'installation, n'hésitez pas à demander de l
    - Vérifiez que %matplotlib inline est exécuté
    - Relancez la cellule de visualisation
 
-### Pour le TP4 spécifiquement
+### Pour le TP3 et TP4 spécifiquement
 1. **Gestion du GPU**
    - Vérifiez l'activation du GPU au début
    - Surveillez l'utilisation mémoire
