@@ -93,7 +93,7 @@ Tous les TPs s'exécutent dans Google Colab. Cliquez sur les badges ci-dessous :
 
 ### Analyse (6 pts)
 - Profondeur de l'analyse
-- Liens entre les parties
+- Liens avec le cours
 
 ### Communication (6 pts)
 - Structure du rapport
