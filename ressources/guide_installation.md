@@ -91,7 +91,7 @@ Pour toute question ou problème d'installation, n'hésitez pas à demander de l
 - Compétences : Pandas, visualisation
 
 ### TP2 : Prédiction de la consommation
-- Focus : Modèles de régression
+- Focus : Apprentissage supervisé
 - Compétences : Scikit-learn, évaluation de modèles
 
 ### TP3 : Analyse par clustering
@@ -105,7 +105,7 @@ Pour toute question ou problème d'installation, n'hésitez pas à demander de l
 ## Conseils pratiques
 
 ### Exécution du code
-1. Exécutez les cellules dans l'ordre (Shift+Enter)
+1. Exécutez les cellules dans l'ordre (Ctrl+Enter)
 2. Attendez qu'une cellule soit terminée avant d'exécuter la suivante
 3. En cas d'erreur, relancez le runtime (Runtime → Redémarrer le runtime)
 
