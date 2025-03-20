@@ -11,13 +11,13 @@ projet/
 
 ├── notebooks/ # Les TPs à réaliser
 
-│ ├── TP1_Exploration_Données.py # Analyse du dataset sidérurgique
+│ ├── TP1_Exploration_Données.ipynb # Analyse du dataset sidérurgique
 
-│ ├── TP2_Prediction_Consommation.py # Prédiction énergétique
+│ ├── TP2_Prediction_Consommation.ipynb # Prédiction énergétique
 
-│ ├── TP3_Clustering.py # Profils de consommation
+│ ├── TP3_Clustering.ipynb # Profils de consommation
 
-│ └── TP4_Detection_Anomalies.py # Détection d'anomalies visuelles
+│ └── TP4_Detection_Anomalies.ipynb # Détection d'anomalies visuelles
 
 └── ressources/ # Documents de support
 
@@ -82,7 +82,7 @@ Tous les TPs s'exécutent dans Google Colab. Cliquez sur les badges ci-dessous :
 
 ### Points d'attention
 - **TP1-2-3** : Suivre l'ordre des TPs
-- **TP4** : Vérifier l'activation GPU
+- **TP3-4** : Vérifier l'activation GPU
 
 ## 📊 Évaluation (20 points)
 
