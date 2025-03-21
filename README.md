@@ -19,11 +19,11 @@ projet/
 
 │ └── TP4_Detection_Anomalies.ipynb # Détection d'anomalies visuelles
 
-└── ressources/ # Documents de support
+├── ressources/ # Documents de support
 
-├── guide_installation.md # Configuration Colab et GPU
+│ ├── guide_installation.md # Configuration Colab et GPU
 
-└── template_rapport.md # Structure du rapport à suivre
+│ ├── template_rapport.md # Structure du rapport à suivre
 
 ### Navigation dans le projet
 1. **Commencez par ce README**
