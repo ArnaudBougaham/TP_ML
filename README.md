@@ -61,7 +61,7 @@ Tous les TPs s'exécutent dans Google Colab. Cliquez sur les badges ci-dessous :
    - Évaluation
    - Comparaison
 
-3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP3_Clustering.ipynb) **TP3 : Clustering**
+<!---3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP3_Clustering.ipynb) **TP3 : Clustering**
    - Profils de consommation
    - Recommandations
 
@@ -70,7 +70,7 @@ Tous les TPs s'exécutent dans Google Colab. Cliquez sur les badges ci-dessous :
    - Dataset MVTec AD
    - Deep Learning (VAE)
    - Analyse des résultats
-
+-->
 ## 📋 Déroulement des TPs
 
 ### Pour chaque TP
