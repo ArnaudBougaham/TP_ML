@@ -171,7 +171,7 @@ project/
 All labs run in Google Colab. Click the badges below:
 
 #### Energy analysis
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab1_Data_Exploration.ipynb **Lab1: Exploration**
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab1_Data_Exploration.ipynb) **Lab1: Exploration**
    - Dataset discovery
    - Pattern analysis
    - Visualizations
