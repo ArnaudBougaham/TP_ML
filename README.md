@@ -51,25 +51,25 @@ projet/
 Tous les TPs s'exécutent dans Google Colab. Cliquez sur les badges ci-dessous :
 
 #### Analyse énergétique
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP1_Exploration_Données.ipynb) **TP1 : Exploration** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab1_Data_Exploration.ipynb) **Lab1 : Data Exploration**
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP1_Exploration_Données.ipynb) **TP1 : Exploration** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab1_Data_Exploration.ipynb)
 )
    - Découverte du dataset
    - Analyse des patterns
    - Visualisations
 
-2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP2_Prediction_Consommation.ipynb) **TP2 : Prédiction** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab2_Consumption_Prediction.ipynb) **Lab2 : Consumption Prediction**
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP2_Prediction_Consommation.ipynb) **TP2 : Prédiction** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab2_Consumption_Prediction.ipynb)
 )
    - Modèles ML
    - Évaluation
    - Comparaison
 
-3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP3_Clustering.ipynb) **TP3 : Clustering** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab3_Clustering.ipynb) **Lab3 : Clustering**
+3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP3_Clustering.ipynb) **TP3 : Clustering** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab3_Clustering.ipynb)
 )
    - Profils de consommation
    - Recommandations
 
 #### Vision industrielle
-4. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP4_Detection_Anomalies.ipynb) **TP4 : Détection d'anomalies** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab4_Anomaly_Detection.ipynb) **Lab4 : Anomaly Detection**
+4. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/TP4_Detection_Anomalies.ipynb) **TP4 : Détection d'anomalies** (EN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArnaudBougaham/TP_ML/blob/main/notebooks/Lab4_Anomaly_Detection.ipynb)
 )
    - Dataset MVTec AD
    - Deep Learning (VAE)
